@@ -8,7 +8,7 @@
   
   ### MAINTAINERS
 * **contact**
-anubi5#parrotsec.org
+anubi5@parrotsec.org
   ### CLONE
 ```
 # git clone https://github.com/anubi5egypt/Anubi5-master.git
