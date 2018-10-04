@@ -9,7 +9,11 @@
   ### MAINTAINERS
 * **contact**
 anubi5@parrotsec.org
-  ### CLONE
+
+#Attention
+for edu and autherized only
+ ### CLONE
+ 
 ```
 # git clone https://github.com/anubi5egypt/Anubi5-master.git
 ```
@@ -30,8 +34,6 @@ file: chose deb from backdoor file
 ip: your ip
 port: 1337
 name : anyname.deb
-
-
 
 ## TESTED ON
 [![Parrotec)](https://www.parrotsec.org) **Parrot Security OS**
