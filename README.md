@@ -11,7 +11,7 @@
 anubi5@parrotsec.org
 
    ### Attention
-for edu and autherized only
+# for edu and autherized only
  ### CLONE
  
 ```
