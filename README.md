@@ -20,6 +20,18 @@ anubi5@parrotsec.org
 ```
 # chmod 777 Anubi5.py
 # python Anubi5.py
+# Use help
+1-info
+2-list_backdoor
+3-help
+command> list_backdoor
+command> deb_backdoor
+file: chose deb from backdoor file
+ip: your ip
+port: 1337
+name : anyname.deb
+
+
 
 ## TESTED ON
 [![Parrotec)](https://www.parrotsec.org) **Parrot Security OS**
