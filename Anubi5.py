@@ -21,7 +21,7 @@ $$ |  $$ |$$ |  $$ |\$$$$$$  |$$$$$$$  |$$ |\$$$$$$  |
 									                                                                
 \t\t\t\t\t\t\t\tversion 0.1"""
 print  "\033[0;31m" + ascii +"\033[0m"
-print "\t\033[0;38m   This Tool Created for Malwares And Backdoors in package Linux\033[0m  "
+print "\t\033[0;38m   This Tool To BuildU up Malwares and Backdoors inside deb package Linux\033[0m  "
 print  ""
 print  ""
 print  ""
