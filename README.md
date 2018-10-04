@@ -11,7 +11,7 @@
 anubi5#parrotsec.org
   ### CLONE
 ```
-# git clone https://github.com/UndeadSec/Debinject.git
+# git clone https://github.com/anubi5egypt/Anubi5-master.git
 ```
 ### RUNNING
 ```
